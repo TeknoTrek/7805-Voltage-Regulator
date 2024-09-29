@@ -1,2 +1,2 @@
-# 7805VoltageRegulator
- 7805-Voltage-Regulator-Circuit
+# 7805 Voltage Regulator
+ 7805 Voltage Regulator Circuit
