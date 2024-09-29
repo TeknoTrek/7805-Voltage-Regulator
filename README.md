@@ -28,7 +28,13 @@ You can follow along with the entire development process of the 7805 Voltage Reg
 [[youtu.be/-1nnuz-Jnwk]](https://youtu.be/-1nnuz-Jnwk)
 
 ## 📸 3D Model Preview
-<img align="center" src="https://raw.githubusercontent.com/TeknoTrek/7805-Voltage-Regulator/refs/heads/main/images/7805-Voltage-Regulator.jpg">
+<img align="center" alt="3D Model Preview" src="https://raw.githubusercontent.com/TeknoTrek/7805-Voltage-Regulator/refs/heads/main/images/7805-Voltage-Regulator.jpg">
+
+## 📸 7805 Voltage Regulator Circuit
+<img align="center" alt="7805 Voltage Regulator Circuit" src="https://raw.githubusercontent.com/TeknoTrek/7805-Voltage-Regulator/refs/heads/main/images/7805-voltage-regulator-03.jpg">
+
+## 📸 PCB
+<img align="center"  alt="PCB" src="https://raw.githubusercontent.com/TeknoTrek/7805-Voltage-Regulator/refs/heads/main/images/7805-voltage-regulator-02.jpg">
 
 ## License
 This project is licensed under the MIT License – see the LICENSE file for details.
