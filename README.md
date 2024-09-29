@@ -21,6 +21,7 @@ The 7805 voltage regulator circuit is widely used in various electronic projects
 - Power supply circuits for microcontroller-based systems.
 - Regulating voltage for sensor modules and other peripherals.
 - General purpose 5V DC power applications.
-### License
+## License
 This project is licensed under the MIT License – see the LICENSE file for details.
+
 Feel free to adjust this based on additional files or details you include in the repository!
