@@ -25,7 +25,7 @@ The 7805 voltage regulator circuit is widely used in various electronic projects
 ### Watch the Development Process
 You can follow along with the entire development process of the 7805 Voltage Regulator Circuit on my[ YouTube channel](https://youtu.be/-1nnuz-Jnwk). I document each step, from initial design to final testing, providing insights and tips along the way. Don’t forget to subscribe for more electronics projects!
 
-[[youtu.be/-1nnuz-Jnwk]](https://youtu.be/-1nnuz-Jnwk)
+[[7805 Voltage Regulator]](https://youtu.be/-1nnuz-Jnwk)
 
 ## 📸 3D Model Preview
 <img align="center" alt="3D Model Preview" src="https://raw.githubusercontent.com/TeknoTrek/7805-Voltage-Regulator/refs/heads/main/images/7805-Voltage-Regulator.jpg">
